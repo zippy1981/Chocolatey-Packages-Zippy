@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>ntstrace</id>
+    <version>1.0.1.1</version>
+    <authors>Vasily Tarasov</authors>
+    <owners>zippy1981</owners>
+    <projectUrl>http://www.zoneos.com/ntstrace.htm</projectUrl>
+    <iconUrl>http://www.zoneos.com/favicon.ico</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Warning: the author does not guarantee this tool to work on x64.
+
+This tool is a Windows NT native application, designed to trace system calls (Native API) and portions of RTL, just like Unix strace, without installing device driver (which is sometimes used to monitor system services table) and yet allowing trace calls at the lowest available for user-mode level.
+
+Tool creates target process and inserts wrappers for ntdll functions before first thread is executed. On every such call wrapper code is launched, writing known information to standard output handle inherited from parent ntstrace process. This even allows monitoring loader initialization, which is quite hard to do with average user-mode debugger.</description>
+    <releaseNotes />
+    <copyright>Copyright 2011-2012 Vasily Tarasov</copyright>
+    <tags>strace</tags>
+  </metadata>
+</package>
