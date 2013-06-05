@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>StraceNT</id>
+    <version>0.8</version>
+    <authors>Pankaj Garg</authors>
+    <owners>zippy1981</owners>
+    <licenseUrl>http://opensource.org/licenses/BSD-2-Clause</licenseUrl>
+    <projectUrl>http://www.intellectualheaven.com/default.asp?BH=projects&amp;H=strace.htm</projectUrl>
+    <iconUrl>http://www.intellectualheaven.com/Projects/StraceNTIcon.gif</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>StraceNT is a System Call Tracer for Windows. It provides similar functionality as of strace on Linux. It can trace all the calls made by a process to the imported functions from a DLL. StraceNT can be very useful in debugging and analyzing the internal working of a program.</description>
+    <copyright>Copyright 2011</copyright>
+    <tags>strace</tags>
+  </metadata>
+</package>
