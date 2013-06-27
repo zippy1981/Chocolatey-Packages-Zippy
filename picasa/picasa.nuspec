@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>picasa</id>
+    <version>3.9</version>
+    <authors>Google</authors>
+    <owners>Justin</owners>
+    <projectUrl>http://picasa.google.com/</projectUrl>
+    <!--<iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>-->
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Organize, edit, and share your photos.</description>
+    <releaseNotes>Initial Release.</releaseNotes>
+    <copyright>Copyright 2013</copyright>
+    <tags>google google+ photos</tags>
+  </metadata>
+</package>
