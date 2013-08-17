@@ -1,5 +1,5 @@
 $package = 'RSAT.FeaturePack'
-$osInfo = Get-CimInstance Win32_OperatingSystem | SELECT Version, ProductType, Caption
+$osInfo = Get-WmiObject Win32_OperatingSystem | SELECT Version, ProductType, Caption
 $osInfo.Version = [version] $osInfo.Version
 
 if ($osInfo.Version -lt [version]'6.0') {
