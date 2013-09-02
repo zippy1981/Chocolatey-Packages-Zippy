@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
     <id>Ghostscript</id>
-    <version>9.09</version>
+    <version>9.10</version>
     <authors>Artifex</authors>
     <owners>zippy1981</owners>
     <licenseUrl>http://www.gnu.org/licenses/agpl-3.0.html</licenseUrl>
@@ -19,7 +19,7 @@ Ghostscript is written entirely in C, with special care taken to make it run pro
     <copyright>Copyright 2013 Artifex Software, Inc</copyright>
     <tags>ghostscript postscript</tags>
     <dependencies>
-      <dependency id="Ghostscript.app" version="9.09" />
+      <dependency id="Ghostscript.app" version="9.10" />
     </dependencies>
   </metadata>
 </package>
