@@ -12,5 +12,8 @@
     <description>sbt, a build tool for Scala</description>                              
     <copyright>Copyright 2008-2010</copyright>
     <tags>scala java lang</tags>
+    <dependencies>
+      <dependency id="javaruntime" version="[6.0,8.0)" />
+    </dependencies>
   </metadata>
 </package>
