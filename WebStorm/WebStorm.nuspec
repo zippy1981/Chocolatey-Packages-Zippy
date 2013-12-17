@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>WebStorm</id>
+        <version>7.0</version>
+        <title>WebStorm (Install)</title>
+        <authors>JetBrains</authors>
+        <owners>JetBrains</owners>
+        <licenseUrl>http://www.jetbrains.com/webstorm/</licenseUrl>
+        <projectUrl>http://www.jetbrains.com/webstorm/</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>WebStorm</description>
+        <summary>WebStorm</summary>
+        <releaseNotes />
+        <copyright />
+        <tags>WebStorm</tags>
+    </metadata>
+    <files>
+        <file src="tools\chocolateyInstall.ps1" target="tools\chocolateyInstall.ps1" />
+    </files>
+</package>
