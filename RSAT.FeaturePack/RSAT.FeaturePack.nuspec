@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>RSAT.FeaturePack</id>
+    <version>1.0.1</version>
+    <authors>Microsoft</authors>
+    <owners>zippy1981</owners>
+    <projectUrl>http://msdn.microsoft.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>
+      The Remote Server Administration Tools (RSAT) pack is a feature that is
+      included with Windows Server Operation systems. For Windows Vista and
+      later workstation operating systems, an addon MSU may be downloaded with the RSAT. This package installs
+      that MSU.
+    </description>
+    <copyright>Copyright 2009-2012</copyright>
+    <tags>MSU administration</tags>
+  </metadata>
+</package>

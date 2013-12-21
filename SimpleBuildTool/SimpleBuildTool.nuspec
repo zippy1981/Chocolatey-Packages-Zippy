@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>sbt</id>
+    <version>0.13.0</version>
+    <authors>Steven Blundy, Josh Cough, Mark Harrah, Stuart Roebuck, Tony Sloane, Vesa Vilhonen, Jason Zaugg</authors>
+    <owners>zippy1981</owners>
+    <licenseUrl>https://raw.github.com/sbt/sbt/0.13/LICENSE</licenseUrl>
+    <projectUrl>http://www.scala-sbt.org/</projectUrl>
+    <iconUrl>https://identicons.github.com/8d4668adfdf24bbaf9150fdbbe887910.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>sbt, a build tool for Scala</description>                              
+    <copyright>Copyright 2008-2010</copyright>
+    <tags>scala java lang</tags>
+  </metadata>
+</package>

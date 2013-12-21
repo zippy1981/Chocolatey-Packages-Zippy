@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>ReSharperSDK</id>
+    <version>8.0.1086</version>
+    <authors>JetBrains</authors>
+    <owners>zippy1981</owners>
+    <projectUrl>http://www.jetbrains.com/resharper/download/</projectUrl>
+    <iconUrl>https://github.com/ferventcoder/nugetpackages/raw/master/resharper/resharperlogo.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Meta package that installs the .msi distribution of the ReSharper SDK.</description>
+    <copyright>Copyright 2003-2012</copyright>
+    <tags>Visual-Studio ReSharper SDK admin</tags>
+    <dependencies>
+      <dependency id="ReSharperSDK.app" version="[8.0.1086]" />
+    </dependencies>
+  </metadata>
+</package>

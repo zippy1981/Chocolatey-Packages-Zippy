@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>fossil.portable</id>
+    <version>1.27</version>
+    <authors>D. Richard Hipp</authors>
+    <owners>zippy1981, KidFashion</owners>
+    <licenseUrl>http://www.fossil-scm.org/fossil/doc/trunk/COPYRIGHT-BSD2.txt</licenseUrl>
+    <projectUrl>http://www.fossil-scm.org/</projectUrl>
+    <iconUrl>http://www.fossil-scm.org/fossil/logo</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Fossil is a cross-platform server that runs on Linux, BSD derivatives, Mac and Windows. It is capable of performing distributed version control, bug tracking, wiki services, and blogging. The software has a built-in web interface, which reduces project tracking complexity and promotes situational awareness. A user may simply type "fossil ui" from within any check-out and Fossil automatically opens the user's web browser in a page that gives detailed history and status information on that project.</description>
+    <releaseNotes>Fossil v 1.27 (2013-09-11 11:43:49)
+Key changes in this release include:
+
+Enhance the fossil changes, fossil clean, fossil extras, fossil ls and fossil status commands to restrict operation to files and directories named on the command-line.
+New --integrate option to fossil merge, which automatically closes the merged branch when committing.
+Renamed /stats_report page to /reports. Graph width is now relative, not absolute.
+Added yw=YYYY-WW (year-week) filter to timeline to limit the results to a specific year and calendar week number, e.g. /timeline?yw=2013-01.
+Updates to SQLite to prevent opening a repository file using file descriptors 1 or 2 on unix. This fixes a bug under which an assertion failure could overwrite part of a repository database file, corrupting it.
+Added support for unlimited line lengths in side-by-side diffs.
+New --close option to fossil commit, which immediately closes the branch being committed.
+Added chart option to fossil bisect.
+Improvements to the "human or bot?" determination.
+Reports errors about missing CGI-standard environment variables for HTTP servers which do not support them.
+Minor improvements to sync support on Windows.
+Added --scgi option to fossil server.
+Internal improvements to the sync process.
+The internals of the JSON API are now MIT-licensed, so downstream users/packagers are no longer affected by the "do no evil" license clause.
+	</releaseNotes>
+    <copyright>Copyright 2007-2013</copyright>
+    <tags>chocolatey fossil scm sqlite</tags>
+  </metadata>
+</package>
+

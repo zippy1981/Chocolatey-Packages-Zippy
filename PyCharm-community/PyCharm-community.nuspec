@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>PyCharm-community</id>
+        <version>3.0.0.0</version>
+        <title>PyCharm (Install)</title>
+        <authors>Jetbrains</authors>
+        <owners>zippy1981</owners>
+        <licenseUrl>http://www.jetbrains.org/display/IJOS/License+Information</licenseUrl>
+        <projectUrl>http://www.jetbrains.com/pycharm/</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Open source edition of the intelligent Python IDE with unique code assistance and analysis, for productive Python development on all levels</description>
+        <summary>PyCharm</summary>
+        <releaseNotes />
+        <copyright />
+        <tags>PyCharm jetbrains python IDE</tags>
+    </metadata>
+</package>

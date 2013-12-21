@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>SqlKerberosConfigMgr</id>
+    <version>1.0.0</version>
+    <authors>Microsoft</authors>
+    <owners>zippy1981</owners>
+    <licenseUrl>http://www.microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx</licenseUrl>
+    <projectUrl>http://www.microsoft.com/en-us/download/details.aspx?id=39046</projectUrl>
+    <iconUrl>https://github.com/mwrock/Chocolatey-Packages/raw/master/MsSqlServer2012Express/SqlServer.PNG</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Microsoft Kerberos Configuration Manager for SQL Server is a diagnostic tool that helps troubleshoot Kerberos related connectivity issues with SQL Server.</description>
+    <releaseNotes>Release announcement: http://blogs.msdn.com/b/analysisservices/archive/2013/05/23/released-kerberos-configuration-manager-for-sql-server.aspx</releaseNotes>
+    <copyright>Copyright 2013</copyright>
+    <tags>SQLServer Kerberos</tags>
+  </metadata>
+</package>
