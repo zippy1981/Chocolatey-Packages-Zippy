@@ -8,6 +8,7 @@
         <owners>JetBrains</owners>
         <licenseUrl>http://www.jetbrains.com/webstorm/</licenseUrl>
         <projectUrl>http://www.jetbrains.com/webstorm/</projectUrl>
+		<iconUrl>https://raw.github.com/zippy1981/Chocolatey-Packages-Zippy/master/WebStorm/WebStorm.png</iconUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>WebStorm</description>
         <summary>WebStorm</summary>
