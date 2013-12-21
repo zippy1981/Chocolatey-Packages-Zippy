@@ -8,6 +8,7 @@
         <owners>zippy1981</owners>
         <licenseUrl>http://www.jetbrains.org/display/IJOS/License+Information</licenseUrl>
         <projectUrl>http://www.jetbrains.com/pycharm/</projectUrl>
+		<iconUrl>https://raw.github.com/zippy1981/Chocolatey-Packages-Zippy/master/PyCharm-community/PyCharm-community.png</iconUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>Open source edition of the intelligent Python IDE with unique code assistance and analysis, for productive Python development on all levels</description>
         <summary>PyCharm</summary>
