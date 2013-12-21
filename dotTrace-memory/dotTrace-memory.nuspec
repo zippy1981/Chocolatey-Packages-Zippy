@@ -7,7 +7,7 @@
     <authors>JetBrains</authors>
     <owners>JetBrains</owners>
     <projectUrl>http://www.jetbrains.com/profiler/</projectUrl>
-    <iconUrl>http://www.jetbrains.com/profiler/favicon.ico</iconUrl>
+    <iconUrl>https://raw.github.com/zippy1981/Chocolatey-Packages-Zippy/master/dotTrace/dotTrace.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>10-day trial version of JetBrains dotTrace memory profiler</description>
     <summary>10-day trial version of JetBrains dotTrace memory profiler</summary>
