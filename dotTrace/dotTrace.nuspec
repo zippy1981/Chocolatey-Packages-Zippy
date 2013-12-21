@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>dotTrace</id>
-    <version>5.5.0.24441</version>
+    <version>5.5.3.554</version>
     <title>dotTrace Performance</title>
     <authors>JetBrains</authors>
     <owners>JetBrains</owners>
