@@ -1,4 +1,4 @@
-try {
+﻿try {
   $package = 'hobocopy'
   $destination = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)" 
 

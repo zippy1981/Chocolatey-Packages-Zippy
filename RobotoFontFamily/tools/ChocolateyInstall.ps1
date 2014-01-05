@@ -1,4 +1,4 @@
-Add-Type -AssemblyName System.Drawing
+﻿Add-Type -AssemblyName System.Drawing
 
 function Install-ChocolateyTTFs ([string]$package, [string]$url)
 {

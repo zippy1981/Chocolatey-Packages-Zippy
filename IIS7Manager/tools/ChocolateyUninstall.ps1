@@ -1,4 +1,4 @@
-$package = 'IIS7Manager'
+﻿$package = 'IIS7Manager'
 
 try {
   # HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\

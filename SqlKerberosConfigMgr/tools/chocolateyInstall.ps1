@@ -1,4 +1,4 @@
-$pkgId = 'SqlKerberosConfigMgr'
+﻿$pkgId = 'SqlKerberosConfigMgr'
 $url = 'http://download.microsoft.com/download/3/0/0/30097741-2498-4CD4-A475-EAC04DF6877A/x86/KerberosConfigMgr.msi'
 $url64 = 'http://download.microsoft.com/download/3/0/0/30097741-2498-4CD4-A475-EAC04DF6877A/x64/KerberosConfigMgr.msi'
 

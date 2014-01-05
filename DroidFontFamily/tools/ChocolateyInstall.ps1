@@ -1,4 +1,4 @@
-try {
+﻿try {
   $package = 'DroidFonts'
 
   $fontUrl = 'http://download.damieng.com/fonts/redistributed/DroidFamily.zip'

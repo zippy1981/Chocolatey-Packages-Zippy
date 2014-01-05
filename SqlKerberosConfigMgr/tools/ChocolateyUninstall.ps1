@@ -1,4 +1,4 @@
-$package = 'SqlKerberosConfigMgr'
+﻿$package = 'SqlKerberosConfigMgr'
 
 try {
   # HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\

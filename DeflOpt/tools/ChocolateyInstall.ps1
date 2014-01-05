@@ -1,4 +1,4 @@
-$packageName = 'DeflOpt'
+﻿$packageName = 'DeflOpt'
 $url = 'http://www.walbeehm.com/download/DeflOpt207.7z'
 
 try { 

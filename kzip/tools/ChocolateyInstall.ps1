@@ -1,4 +1,4 @@
-try 
+﻿try 
 { 
     $name    = 'kzip'
     $url     = 'http://advsys.net/ken/util/kzip.exe'
