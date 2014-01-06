@@ -1,4 +1,4 @@
-$pkgId = 'IIS7Manager'
+﻿$pkgId = 'IIS7Manager'
 $url = 'http://download.microsoft.com/download/A/9/3/A9391E22-2554-4D19-BA3E-794456EC77E0/inetmgr_i386.msi'
 $url64 = 'http://download.microsoft.com/download/A/9/3/A9391E22-2554-4D19-BA3E-794456EC77E0/inetmgr_amd64.msi'
 

@@ -1,4 +1,4 @@
-try {
+﻿try {
   $package = 'fossil'
   $url = 'http://www.fossil-scm.org/download/fossil-w32-20130911114349.zip'
   $destination = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)" 

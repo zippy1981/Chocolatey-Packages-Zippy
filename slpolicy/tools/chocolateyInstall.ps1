@@ -1,4 +1,4 @@
-$rootPath = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
+﻿$rootPath = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
 Install-ChocolateyZipPackage 'slpolicy' `
 	'http://www.winsiderss.com/tools/slpolicy.zip' `
 	$rootPath;

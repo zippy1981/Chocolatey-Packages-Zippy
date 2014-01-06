@@ -1,4 +1,4 @@
-try {
+﻿try {
   $package = 'MongoVUE'
 
   if (Test-Path "HKLM:\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{677358AD-5B0B-4395-A235-EC2A23EA4432}") {

@@ -1,1 +1,1 @@
-Install-ChocolateyZipPackage 'ntstrace' 'http://www.zoneos.com/downloads/ntstrace/ntstrace_fre_wxp_x86_en_1010.zip' "$(Split-Path -parent $MyInvocation.MyCommand.Definition)" 
+﻿Install-ChocolateyZipPackage 'ntstrace' 'http://www.zoneos.com/downloads/ntstrace/ntstrace_fre_wxp_x86_en_1010.zip' "$(Split-Path -parent $MyInvocation.MyCommand.Definition)" 

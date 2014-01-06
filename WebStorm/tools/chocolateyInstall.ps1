@@ -1,4 +1,4 @@
-#NOTE: Please remove any commented lines to tidy up prior to releasing the package, including this one
+﻿#NOTE: Please remove any commented lines to tidy up prior to releasing the package, including this one
 
 $packageName = 'WebStorm' # arbitrary name for the package, used in messages
 $installerType = 'EXE' #only one of these two: exe or msi

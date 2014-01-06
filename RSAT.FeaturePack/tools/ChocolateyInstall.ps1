@@ -1,4 +1,4 @@
-$package = 'RSAT.FeaturePack'
+﻿$package = 'RSAT.FeaturePack'
 $osInfo = Get-WmiObject Win32_OperatingSystem | SELECT Version, ProductType, Caption
 $osInfo.Version = [version] $osInfo.Version
 

@@ -1,4 +1,4 @@
-try {
+﻿try {
 
   Install-ChocolateyPackage `
     'dotTraceMemory' 'exe' '/S /v/qn' `

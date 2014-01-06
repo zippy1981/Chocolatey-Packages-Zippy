@@ -1,4 +1,4 @@
-# methodology taken from: http://blogs.msdn.com/b/astebner/archive/2008/06/20/8627241.aspx?Redirected=true
+﻿# methodology taken from: http://blogs.msdn.com/b/astebner/archive/2008/06/20/8627241.aspx?Redirected=true
 $setupExtractDir = Join-Path $($env:temp) 'vssdk2010_setup'
 
 Install-ChocolateyPackage `
