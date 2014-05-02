@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>AnkhSvn</id>
-    <version>2.5.12266</version>
+    <version>2.5.12440</version>
     <authors>Bert Huijben</authors>
     <owners>zippy1981</owners>
     <licenseUrl>http://ankhsvn.open.collab.net/ankhsvn/license</licenseUrl>
@@ -10,7 +10,7 @@
     <iconUrl>http://ankhsvn.open.collab.net/images/ankhsvn-logo.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>AnkhSVN is a Subversion Source Control Provider for Microsoft Visual Studio 2005, 2008, 2010, 2012 and 2013.</description>
-    <copyright>Copyright © 2003-2013 The AnkhSVN Team</copyright>
+    <copyright>Copyright © 2003-2014 The AnkhSVN Team</copyright>
     <tags>svn VisualStudio SCM</tags>
   </metadata>
 </package>
