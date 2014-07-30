@@ -1,6 +1,6 @@
 ﻿try {
 
-  Install-ChocolateyPackage 'dotTrace' 'msi' '/passive /qn' 'http://download-ln.jetbrains.com/dottrace/dotTraceSetup.5.5.3.554.msi'
+  Install-ChocolateyPackage 'dotTrace' 'msi' '/passive /qn' 'http://download-cf.jetbrains.com/dottrace/dotTraceSetup.5.5.5.346.msi'
 
 } catch {
 
