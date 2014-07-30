@@ -2,11 +2,11 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>dotTrace-memory</id>
-    <version>3.5.360.114</version>
+    <version>4.0.5.148</version>
     <title>dotTrace Memory</title>
     <authors>JetBrains</authors>
     <owners>JetBrains</owners>
-    <projectUrl>http://www.jetbrains.com/profiler/</projectUrl>
+    <projectUrl>http://www.jetbrains.com/dotmemory/</projectUrl>
     <iconUrl>https://raw.github.com/zippy1981/Chocolatey-Packages-Zippy/master/dotTrace/dotTrace.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>10-day trial version of JetBrains dotTrace memory profiler</description>
