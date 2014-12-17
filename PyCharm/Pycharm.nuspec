@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Pycharm</id>
+    <version>4.0.3</version>
+    <title>Pycharm (Install)</title>
+    <authors>Jetbrains</authors>
+    <owners>Jetbrains</owners>
+    <licenseUrl>http://www.jetbrains.com/pycharm/</licenseUrl>
+    <projectUrl>http://www.jetbrains.com/pycharm/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Pycharm</description>
+    <summary>Pycharm</summary>
+    <releaseNotes />
+    <copyright />
+    <tags>Pycharm</tags>
+  </metadata>
+</package>
