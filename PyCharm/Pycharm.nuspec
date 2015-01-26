@@ -3,16 +3,17 @@
   <metadata>
     <id>Pycharm</id>
     <version>4.0.3</version>
-    <title>Pycharm (Install)</title>
+    <title>Pycharm Professional (Install)</title>
     <authors>Jetbrains</authors>
     <owners>Jetbrains</owners>
     <licenseUrl>http://www.jetbrains.com/pycharm/</licenseUrl>
     <projectUrl>http://www.jetbrains.com/pycharm/</projectUrl>
+    <iconUrl>https://cdn.rawgit.com/zippy1981/Chocolatey-Packages-Zippy/master/PyCharm/logo.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Pycharm</description>
+    <description>Trial install for the Professional edition of Pycharm, a full-featured IDE for Python &amp; Web development. PyCharm supports Django, Flask, Google App Engine, Pyramid, web2py, JavaScript, CoffeeScript, TypeScript, CSS, Cython, Template languages, Remote development, Databases and SQL support, UML &amp; SQLAlchemy Diagrams and more.</description>
     <summary>Pycharm</summary>
     <releaseNotes />
     <copyright />
-    <tags>Pycharm</tags>
+    <tags>Pycharm trial</tags>
   </metadata>
 </package>
