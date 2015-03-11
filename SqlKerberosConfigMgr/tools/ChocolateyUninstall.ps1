@@ -2,7 +2,7 @@
 
 try {
   # HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\
-  $msiid = '{E12F3D8B-3D75-40F7-8D98-FB9E41405658}'
+  $msiid = '{60C2F0E4-DE3E-4810-83B5-16AA144E01A5}'
   Uninstall-ChocolateyPackage $package 'MSI' -SilentArgs "$msIid /qn" -validExitCodes @(0)
   
 } catch {
