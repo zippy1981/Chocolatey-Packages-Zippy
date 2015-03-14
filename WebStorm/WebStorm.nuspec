@@ -2,15 +2,15 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
     <metadata>
         <id>WebStorm</id>
-        <version>8.0.4</version>
-        <title>WebStorm (Install)</title>
+        <version>9.0.3</version>
+        <title>WebStorm</title>
         <authors>JetBrains</authors>
         <owners>JetBrains</owners>
         <licenseUrl>http://www.jetbrains.com/webstorm/</licenseUrl>
         <projectUrl>http://www.jetbrains.com/webstorm/</projectUrl>
         <iconUrl>https://raw.github.com/zippy1981/Chocolatey-Packages-Zippy/master/WebStorm/WebStorm.png</iconUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
-        <description>WebStorm</description>
+        <description>WebStorm is a lightweight yet powerful IDE, perfectly equipped for complex client-side development and server-side development with Node.js.</description>
         <summary>WebStorm</summary>
         <releaseNotes />
         <copyright />
