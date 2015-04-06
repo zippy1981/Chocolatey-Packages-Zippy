@@ -1,6 +1,6 @@
 $packageName = 'Pycharm'
 $installerType = 'EXE'
-$url = 'http://download.jetbrains.com/python/pycharm-professional-4.0.5.exe'
+$url = 'http://download.jetbrains.com/python/pycharm-professional-4.0.6.exe'
 $url64 = $url
 $silentArgs = '/S'
 $validExitCodes = @(0)

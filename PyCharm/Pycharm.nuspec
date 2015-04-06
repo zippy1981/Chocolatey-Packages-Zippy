@@ -2,11 +2,11 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>Pycharm</id>
-    <version>4.0.5</version>
+    <version>4.0.6</version>
     <title>Pycharm Professional</title>
     <authors>Jetbrains</authors>
     <owners>Jetbrains</owners>
-    <licenseUrl>http://www.jetbrains.com/pycharm/</licenseUrl>
+    <licenseUrl>https://www.jetbrains.com/pycharm/buy/license.html</licenseUrl>
     <projectUrl>http://www.jetbrains.com/pycharm/</projectUrl>
     <iconUrl>https://cdn.rawgit.com/zippy1981/Chocolatey-Packages-Zippy/master/PyCharm/logo.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
