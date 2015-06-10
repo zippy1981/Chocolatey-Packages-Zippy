@@ -1,4 +1,4 @@
 ﻿Install-ChocolateyPackage `
 	'sbt' 'msi' '/passive' `
-	'http://repo.scala-sbt.org/scalasbt/sbt-native-packages/org/scala-sbt/sbt/0.13.0/sbt.msi'
+	'https://dl.bintray.com/sbt/native-packages/sbt/0.13.7/sbt-0.13.7.msi'
 	

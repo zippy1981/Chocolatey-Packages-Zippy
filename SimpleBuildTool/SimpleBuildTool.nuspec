@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>sbt</id>
-    <version>0.13.0</version>
+    <version>0.13.7</version>
     <authors>Steven Blundy, Josh Cough, Mark Harrah, Stuart Roebuck, Tony Sloane, Vesa Vilhonen, Jason Zaugg</authors>
     <owners>zippy1981</owners>
     <licenseUrl>https://raw.github.com/sbt/sbt/0.13/LICENSE</licenseUrl>
